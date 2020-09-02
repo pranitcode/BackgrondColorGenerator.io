@@ -1,2 +1,2 @@
-# BackgrondColorGenerator.io
-color for background✔
+# BackgrondColourGenerator.io
+colour for background✔
